@@ -26,7 +26,7 @@
 |---------|----------|------------------|-------------|
 | **Java & Spring Boot** • **Go** • **Node.js** • **Python** • **Solidity** • **Rust** | Angular | PostgreSQL • TimescaleDB • ActiveMQ | Docker • GitHub Actions |
 | REST / GraphQL • gRPC |  | Apache Spark (MLlib) | Domain-driven Design |
-| 
+
 
 ---
 
