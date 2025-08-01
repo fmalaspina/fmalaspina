@@ -33,7 +33,6 @@
 ## What I’m Building Next
 - **AI-powered anomaly detection** for real-time Ops (Spark → predictive remediation)  
 - **On-chain observability**: smart-contract proofs of SLA & asset health (Solidity + StarkNet)  
-- **Data-driven product metrics** to close the loop between UX, reliability & business value  
 
 ---
 
@@ -41,8 +40,7 @@
 | I can help you… | If you’re… |
 |-----------------|-----------|
 | • Modernising a legacy NOC/SOC<br>• Shipping a monitoring product faster<br>• Adding AI/ML to Ops pipelines | A SaaS / Telco / FinTech scaling fast |
-| • Bridging tech execution & product vision | A startup needing fractional CTO / PO / DEV|
-| • De-risking blockchain integrations | 🪙 A Web3 team seeking real utility |
+| • Blockchain integrations | 🪙 A Web3 team seeking real utility |
 
 
 <br>
