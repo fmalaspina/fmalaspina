@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! I’m Fernando Malaspina</h1>
 
-> **Self-taught at 17 → 20 + years turning data-center chaos into crystal-clear insight.**
+> **Nine years turning data-center chaos into crystal-clear insight.**
 
 ---
 
