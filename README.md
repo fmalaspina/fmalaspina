@@ -1,51 +1,55 @@
-<h1 align="center">¡Hola! I’m Fernando Malaspina</h1>
+# 👋 Hi there, I'm Fernando Malaspina
 
-> **Turning data-center chaos into crystal-clear insight.**
+I'm a **creative and curious software engineer** from Argentina with a strong technical foundation and a passion for exploring modern technologies.
+
+## 🚀 About Me
+
+I thrive on solving complex problems, adapting quickly, and learning fast. My experience spans backend development, platform architecture, and observability—building large-scale enterprise systems using **Java**, **Spring Boot**, **Go**, and **Angular**.
+
+One of my key achievements has been independently developing a **custom monitoring platform** (ITOSS) that replaced costly per-node licenses with a tailored SaaS solution, delivering significant ROI for data centers across LATAM.
+
+I'm particularly interested in:
+
+- **Cloud-native platforms**
+- **AI and data science for operational insights**
+- **Blockchain infrastructure and smart contracts**
+
+I aim to contribute as a hands-on developer in a modern engineering team and evolve naturally into **Tech Lead** or **Architect** roles.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Java, Go, Python, JavaScript, TypeScript
+- **Frameworks**: Spring Boot, Angular
+- **Data & Analytics**: Apache Spark, SQL, TimescaleDB
+- **DevOps**: Docker, GitHub Actions
+- **Cloud & Infrastructure**: AWS, On-prem orchestration
+- **Other**: RSockets, GraphQL, Solidity
+
+## 🛠 Key Projects
+
+- **ITOSS Manager** – Core orchestration and service lifecycle engine
+- **ITOSS Collector** – Monitoring agents with RSockets
+- **ITOSS Data Science** – Spark-based analytics engine for KPIs
+- **ITOSS JobScheduler** – Microservice for IT task automation
+- **ITOSS Customer Portal** – Angular + GraphQL frontend
+- **Monitoring Dashboard** – PHP + Bootstrap UI for agent status
+- **VMware Daemon** – Go-based vSphere metrics extraction
+
+## 🎓 Certifications
+
+- Machine Learning with Apache Spark
+- Intro to TensorFlow for AI/ML/DL
+- Parallel Programming with Java
+- Sequences, Time Series & Prediction
+- Programming with Go
+- Ethereum Blockchain Smart Contracts with Solidity
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fmalaspina/)
+- 💻 [GitHub](https://github.com/fmalaspina)
+- 📧 f_malaspina@hotmail.com
 
 ---
 
-## Quick Snapshot
-- **Observability & Service-Management Leader** with **20 + years** in LATAM data centers  
-- Built & still evolving **ITOSS** and **Cirion Monitoring Platform** → **17 000 + assets** supervised daily  
-- Hybrid **Tech Lead + Product Owner + Dev**: I code the roadmap **and** craft the roadmap  
-- On a mission to fuse **AI / Data Analytics / Blockchain** with Ops to create self-healing infrastructure  
-
----
-
-## Signature Achievement
-
-| Impact | Platform | My Role |
-|--------|----------|---------|
-| **17 000 + services monitored across Latin America**<br>Latency-aware alerts & automated root-cause flows | **Cirion Technologies Monitoring & Service-Management Suite** | **Technical Lead & Product Owner**<br>• defined product vision & backlog<br>• led end-to-end architecture & team<br>• aligned stakeholders + UX research |
-
----
-
-## 🛠️ Core Tech Stack
-
-| Backend | Frontend | Data & Messaging | Dev & Cloud |
-|---------|----------|------------------|-------------|
-| **Java & Spring Boot** • **Go** • **Node.js** • **Python** • **Solidity** • **Rust** | Angular | PostgreSQL • TimescaleDB • ActiveMQ | Docker • GitHub Actions |
-| REST / GraphQL • gRPC |  | Apache Spark (MLlib) | Domain-driven Design |
-
-
----
-
-## What I’m Building Next
-- **AI-powered anomaly detection** for real-time Ops (Spark → predictive remediation)  
-- **On-chain observability**: smart-contract proofs of SLA & asset health (Solidity + StarkNet)  
-
----
-
-## Let’s Collaborate
-| I can help you… | If you’re… |
-|-----------------|-----------|
-| • Modernising a legacy NOC/SOC<br>• Shipping a monitoring product faster<br>• Adding AI/ML to Ops pipelines | A SaaS / Telco / FinTech scaling fast |
-| • Blockchain integrations | 🪙 A Web3 team seeking real utility |
-
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fmalaspina/">LinkedIn</a> • 
-  <a href="mailto:f_malaspina@hotmail.com">Email</a>
-</p>
+> *"Always focused on real-world applications and value creation, I bring a mindset rooted in technical depth and business impact."*
