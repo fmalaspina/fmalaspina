@@ -14,8 +14,6 @@ I'm particularly interested in:
 - **AI and data science for operational insights**
 - **Blockchain infrastructure and smart contracts**
 
-I aim to contribute as a hands-on developer in a modern engineering team and evolve naturally into **Tech Lead** or **Architect** roles.
-
 ## 🔧 Technologies & Tools
 
 - **Languages**: Java, Go, Python, JavaScript, TypeScript
