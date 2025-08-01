@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! I’m Fernando Malaspina</h1>
 
-> **Nine years turning data-center chaos into crystal-clear insight.**
+> **Turning data-center chaos into crystal-clear insight.**
 
 ---
 
